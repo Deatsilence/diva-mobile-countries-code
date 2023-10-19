@@ -1,5 +1,5 @@
 {
-    "name": "countries-code",
+    "name": "diva-mobile-countries-code",
     "version": "1.1.0",
     "description": "List of contries data with alpha-2, alpha-3 and number codes",
     "main": "countries_code.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/nirvana-flame/countries-code.git"
+        "url": "git://github.com/Deatsilence/diva-mobile-countries-code"
     },
     "keywords": [
         "countries",
@@ -34,9 +34,9 @@
     "author": "NirvanaFlame <nirvanacodes@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nirvana-flame/countries-code/issues"
+        "url": "https://github.com/Deatsilence/diva-mobile-countries-code"
     },
-    "homepage": "https://github.com/nirvana-flame/countries-code",
+    "homepage": "https://github.com/Deatsilence/diva-mobile-countries-code",
     "devDependencies": {
         "chai": "4.2.0",
         "mocha": "8.1.2"
